@@ -15,6 +15,7 @@ else{
 console.log(res.body.daily.data[0].dewPoint);
 
 }
+// these are so important 
 //console.log(res.longitude);
 }) 
 
